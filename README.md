@@ -1,4 +1,4 @@
-# 3D Maze![1_2aMuMsqUbC9Dvb82lKId_w][1_2aMuMsqUbC9Dvb82lKId_w](https://github.com/Atoyebi-410/The_Maze_Project/blob/master/images/1_2aMuMsqUbC9Dvb82lKId_w.jpg) COVER PHOTO
+# The Maze Project[1_2aMuMsqUbC9Dvb82lKId_w](https://github.com/Atoyebi-410/The_Maze_Project/blob/master/images/1_2aMuMsqUbC9Dvb82lKId_w.jpg) COVER PHOTO
 -----
 
 ### Creating a 3D maze with raycasting
