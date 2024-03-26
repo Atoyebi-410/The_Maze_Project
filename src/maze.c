@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 	plane.y = 0.66;
 	time = 0;
 
-	/* this checks user arguments and set options */
+	/* this checks for user arguments and set options */
 	mapName = "\0";
 	textured = true;
 	if (argc == 3)
@@ -54,11 +54,11 @@ int main(int argc, char *argv[])
 	else if (argc == 1)
 		mapName = "maps/map_0";
 
-	/* this starts SDL and create window and renderer */
+	/* this starts the  SDL and create window and renderer */
 	if (!initSDL())
 		return (1);
 
-	/* this parse maze file */
+	/* this parses maze file */
 	maze = NULL;
 	maze = parseMap(mapName, maze);
 	if (maze == NULL)
